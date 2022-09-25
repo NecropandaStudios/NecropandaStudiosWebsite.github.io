@@ -16,6 +16,11 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#about"
 
+  services:
+    title: "Our Ideals"
+    text: "What started out as a small group of gaming enthusiasts has since turned into a team of friends working hard to make games we are proud to be apart of. Taking all of our skills and building the games around us and what we are capable of."
+    section: services
+
   portfolio:
     title: "Portfolio"
     text: "Find everything we have made here"
@@ -53,7 +58,7 @@ en: &DEFAULT_EN
         year: "September 2022"
         desc: "Another year begins, which means the we can get back to developing the game we all enjoy."
         image: assets/img/timeline/5.png
-        alt:
+        alt: 
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
@@ -206,6 +211,7 @@ en: &DEFAULT_EN
         icon: ""
       - url: https://instagram.com
         icon: ""
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
