@@ -15,7 +15,7 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "NecropandaStudios.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/website" # the subpath of your site, e.g. /blog
+baseurl: "NecropandaStudios.github.io" # the subpath of your site, e.g. /blog
 
 title      : Necropanda Studios
 email      : NecropandaStudios@gmail.com #this is also the email contact forms will go to

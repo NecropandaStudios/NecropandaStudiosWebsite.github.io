@@ -16,10 +16,10 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#about"
 
-  ideals:
+  services:
     title: "Our Ideals"
     text: "What started out as a small group of gaming enthusiasts has since turned into a team of friends working hard to make games we are proud to be apart of. Taking all of our skills and building the games around us and what we are capable of."
-    section: ideals
+    section: services
 
   portfolio:
     title: "Portfolio"
