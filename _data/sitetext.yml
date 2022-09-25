@@ -16,10 +16,10 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#about"
 
-  services:
+  ideals:
     title: "Our Ideals"
     text: "What started out as a small group of gaming enthusiasts has since turned into a team of friends working hard to make games we are proud to be apart of. Taking all of our skills and building the games around us and what we are capable of."
-    section: services
+    section: ideals
 
   portfolio:
     title: "Portfolio"
@@ -39,28 +39,32 @@ en: &DEFAULT_EN
         desc: "We started out as a team with no idea what to make for our first project, during this time we called ourselves '2:10 Studios'."
         image: assets/img/timeline/1.png
         alt:
+        align: left
       - title: "The idea of Corruption"
         year: "October 2021"
         desc: "After pitching what felt like 100 different ideas, we had finally settled on a game we wanted to make, Corruption of Arcana, little did we know how much we would love developing this game."
         image: assets/img/timeline/2.png
         alt:
+        align: right
       - title: "Necropanda Arose"
         year: "January 2022"
         desc: "One of our programmers started to write and draw a small set of comics called 'The Chronicles of the Necro Panda' to help pass the time whislt we were bug testing. The comics were funny, but the name sparked an idea."
         image: assets/img/timeline/3.png
         alt: 
+        align: left
       - title: "Falmouth EXPO"
         year: "May 2022"
         desc: "The time to show off our main IP came around and it went amazing. Industry professionals loved it and it recieved an honourable mention from MediaTonic. This gave us the push to continue development for a second year."
         image: assets/img/timeline/4.png
         alt:
+        align: right
       - title: "Development Continued"
         year: "September 2022"
         desc: "Another year begins, which means the we can get back to developing the game we all enjoy."
         image: assets/img/timeline/5.png
         alt: 
         # you can enforce the alignment
-        align: right
+        align: left
     end: "Be Part <br> of Our <br> Story!"
 
   about:
