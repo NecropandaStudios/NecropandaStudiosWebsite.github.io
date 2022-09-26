@@ -6,7 +6,7 @@ alt:
 
 caption:
   title: Corruption of Arcana
-  subtitle: Our first project
+  subtitle: The first chapter in the Corruption of Arcana saga
   thumbnail: assets/img/portfolio/CoAC1.png
 ---
 Corruption of Arcana is a high-fantasy, turn-based, 2.5D, RPG Card game where no journey is the same.
