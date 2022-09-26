@@ -11,10 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    - title: Welcome to our Website!
-      color: purple
-    - text: We are Necropanda Studios
-      color: purple
+    title-color purple: Welcome to our Website!
+    text: We are Necropanda Studios
     button: Tell Me More
     buttonlink: "#about"
 
