@@ -12,11 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to our Website!
-    text:
-    ```
-        {=latex}
-      \textcolor{purple} {\textbf{We are Necropanda Studios}}
-    ```
+    text&5: We are Necropanda Studios
     button: Tell Me More
     buttonlink: "#about"
 
