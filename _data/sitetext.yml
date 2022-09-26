@@ -12,9 +12,9 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to our Website!
-    colour: black
+      {: .text-black}
     text: We are Necropanda Studios
-    colour: purple
+      {: .text-purple}
 
     button: Tell Me More
     buttonlink: "#about"
