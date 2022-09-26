@@ -1,18 +1,19 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: Bladder Buster
+subtitle: A Game jam game
+image: assets/img/portfolio/BladderBuster.png
+alt: 
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  title: Bladder Buster
+  subtitle: A Game jam game
+  thumbnail: assets/img/portfolio/BladderBuster.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+On your biggest pub crawl ever, you must drink as many beers as you can without your bladder exploding. Eat food to sober up but pay attention because the controls change with each drink you have.
+
+This game was made for a Falmouth University game jam and was a fun break for the members of the team who took part.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: May 2022
+- Genre: Endless
 

@@ -11,8 +11,6 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Ideals"
-      section: ideals
     - title: "Portfolio"
       section: portfolio
     - title: "About"
