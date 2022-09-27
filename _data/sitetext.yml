@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to our Website!
-    text: &5. We are Necropanda Studios
+    text: We are <br> Necropanda Studios
     button: Tell Me More
     buttonlink: "#about"
 
@@ -205,16 +205,16 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: ""
-      - url: https://facebook.com
-        icon: ""
-      - url: https://linkedin.com
-        icon: ""
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: ""
-      - url: https://instagram.com
-        icon: ""
+      - url: https://twitter.com/NPandaStudios
+        icon: "assets\img\Icons\Twitter Icon.png"
+      - url: https://necropanda-studios.itch.io/
+        icon: "assets\img\Icons\ItchIO Icon.png"
+      - url: https://www.youtube.com/channel/UCgdEbGCQY8WjRWs-qKaenVQ
+        icon: "assets\img\Icons\Youtube Icon.png"
+      - url: https://www.instagram.com/npandastudios/
+        icon: "assets\img\Icons\Instagram Icon.png"
+      - url: https://www.tiktok.com/@necropandastudios
+        icon: "assets\img\Icons\Tiktok Icon.png"
 
 en-US:
   <<: *DEFAULT_EN
