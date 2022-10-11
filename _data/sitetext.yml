@@ -91,7 +91,7 @@ en: &DEFAULT_EN
             icon:  
       - name: "Jack Drage"
         role: "UI/UX Programmer"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
             icon: assets/img/Icons/TwitterIcon.png
