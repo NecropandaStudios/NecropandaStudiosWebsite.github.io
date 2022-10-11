@@ -206,15 +206,15 @@ en: &DEFAULT_EN
     legal: "Privacy Policy"
     social:
       - url: https://twitter.com/NPandaStudios
-        icon: assets/img/Icons/TwitterIcon.jpg
+        icon: NecropandaStudios.github.io\assets\img\icons\6.png
       - url: https://necropanda-studios.itch.io/
-        icon: assets/img/Icons/ItchIcon.jpg
+        icon: assets/img/icons/ItchIcon.jpg
       - url: https://www.youtube.com/channel/UCgdEbGCQY8WjRWs-qKaenVQ
-        icon: assets/img/Icons/YoutubeIcon.jpg
+        icon: assets/img/icons/YoutubeIcon.jpg
       - url: https://www.instagram.com/npandastudios/
-        icon: assets/img/Icons/InstagramIcon.jpg
+        icon: assets/img/icons/InstagramIcon.jpg
       - url: https://www.tiktok.com/@necropandastudios
-        icon: assets/img/Icons/TiktokIcon.jpg
+        icon: assets/img/icons/TiktokIcon.jpg
 
 en-US:
   <<: *DEFAULT_EN
