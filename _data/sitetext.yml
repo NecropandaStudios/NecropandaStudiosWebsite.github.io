@@ -206,7 +206,7 @@ en: &DEFAULT_EN
     legal: "Privacy Policy"
     social:
       - url: https://twitter.com/NPandaStudios
-        icon: assets/img/Icons/TwitterIcon.png
+        icon: assets/img/Icons/6.png
       - url: https://necropanda-studios.itch.io/
         icon: assets/img/Icons/ItchIcon.png
       - url: https://www.youtube.com/channel/UCgdEbGCQY8WjRWs-qKaenVQ
