@@ -94,7 +94,7 @@ en: &DEFAULT_EN
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
-            icon: assets/img/Icons/TwitterIcon.png
+            icon: 
           - url: https://facebook.com
             icon: 
           - url: https://linkedin.com
@@ -206,15 +206,15 @@ en: &DEFAULT_EN
     legal: "Privacy Policy"
     social:
       - url: https://twitter.com/NPandaStudios
-        icon: assets/img/Icons/6.png
+        icon: - assets/img/Icons/6.png
       - url: https://necropanda-studios.itch.io/
-        icon: assets/img/Icons/ItchIcon.png
+        icon: - assets/img/Icons/3.png
       - url: https://www.youtube.com/channel/UCgdEbGCQY8WjRWs-qKaenVQ
-        icon: assets/img/Icons/YoutubeIcon.png
+        icon: - assets/img/Icons/7.png
       - url: https://www.instagram.com/npandastudios/
-        icon: assets/img/Icons/InstagramIcon.png
+        icon: - assets/img/Icons/2.png
       - url: https://www.tiktok.com/@necropandastudios
-        icon: assets/img/Icons/TiktokIcon.png
+        icon: - assets/img/Icons/5.png
 
 en-US:
   <<: *DEFAULT_EN
